@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'activesupport'
 gem 'capybara', '3.29.0'
 gem 'cucumber', '2.4.0'
 gem 'rest-client', '2.1.0'
